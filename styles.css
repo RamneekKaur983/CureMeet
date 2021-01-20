@@ -1,0 +1,27 @@
+body {
+    background: #393e46;
+}
+
+h1 {
+    color: #e0ece4;
+}
+
+.banner {
+    width: 100%;
+    background: #a3a39d;
+    position: relative;
+}
+
+.banner img {
+    margin-left: 40%;
+    max-width: 100%;
+    max-height: 500px;
+}
+
+.banner p {
+    max-width: 500px;
+    position: absolute;
+    left: 3%;
+    top: 10%;
+    padding: 20px;
+}
