@@ -25,3 +25,33 @@ h1 {
     top: 10%;
     padding: 20px;
 }
+.Logo {
+   
+    width: 10%;
+    height: 101%;
+  }
+  .AboutUsDiv
+  {
+
+    background: #a3a39d;
+    text-align: center;
+  }
+  .ContactUsDiv{
+    background: #a3a39d;
+    text-align: center;
+  }
+  .navbar
+  {
+      background-image: url("CureMeet.png");
+  }
+  .backimage
+  {
+    background-image: url("pic1.jpg"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    width: 2000px;
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    
+  }
+ 
