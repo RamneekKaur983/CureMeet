@@ -1,17 +1,29 @@
 body {
-    background: #393e46;
+    background-image: url('images/remote-meeting-woman-working-from-home-during-coronavirus-covid-19-quarantine-remote-office-concept.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 .heading {
-    background: ;
-    color: #eeeeee;
-    padding-top: 80px;
-    padding-bottom: 50px;
+    display: inline-block;
+    font-family: 'Merienda', cursive;
+    background-color: #6a492b;
+    opacity: 0.65;
+    border-radius: 40px;
+    color: black;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 0px;
+    margin-left: 0px;
+    padding-bottom: 20px;
 }
 
 .banner {
+    background-color: #f4f3f3;
+    opacity: 0.65;
+    color: black;
     width: 100%;
-    background: #eeeeee;
     position: relative;
 }
 
@@ -34,18 +46,6 @@ body {
     height: 101%;
 }
 
-.AboutUsDiv {
-    background: #4f5661;
-    color: #eeeeee;
-    text-align: center;
-}
-
-.ContactUsDiv {
-    background: #4f5661;
-    color: #eeeeee;
-    text-align: center;
-}
-
 
 /* .navbar {
     background-image: url("CureMeet.png");
@@ -66,15 +66,25 @@ body {
 }
 
 .AboutUsDiv {
+    background-color: #f4f3f3;
+    opacity: 0.5;
+    color: black;
     margin-left: 15%;
     max-width: 70%;
     border-radius: 8px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
 }
 
 .ContactUsDiv {
+    background-color: #f4f3f3;
+    opacity: 0.5;
+    color: black;
     margin-left: 15%;
     max-width: 70%;
     border-radius: 8px;
+    text-align: center;
+    font-family: 'Merienda', cursive;
 }
 
 .bar {
